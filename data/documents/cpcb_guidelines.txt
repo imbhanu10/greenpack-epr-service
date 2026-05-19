@@ -1,0 +1,7 @@
+CPCB EPR Guidelines
+
+Extended Producer Responsibility requires registered producers, importers, and brand owners to submit accurate plastic packaging declarations for each reporting period. Declarations should identify the producer, reporting month, material category, and declared quantity in kilograms.
+
+Procurement and sales records should be reconciled with EPR declarations before filing. Material-level differences should be reviewed when declared quantities materially differ from ERP procurement records.
+
+Corrective actions may include supplier invoice verification, ERP data cleanup, revised internal declarations, and supporting documentation for audit review. Compliance teams should maintain records that explain any differences between declared and procured quantities.

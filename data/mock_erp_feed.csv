@@ -1,0 +1,14 @@
+producer_id,month,procurement_date,supplier_name,invoice_number,material_type,quantity_kg,unit_cost_inr,total_cost_inr
+GP-1001,2026-01,2026-01-04,Shakti Polymers LLP,INV-SPL-260104-01,plastic_pet,1250.000,82.50,103125.00
+GP-1001,2026-01,2026-01-11,Western Paper Traders,INV-WPT-260111-07,paper_cardboard,2140.500,41.20,88188.60
+GP-1001,2026-01,2026-01-19,Metro Metal Packaging,INV-MMP-260119-03,aluminium,480.250,196.00,94129.00
+GP-1001,2026-02,2026-02-03,Shakti Polymers LLP,INV-SPL-260203-02,plastic_pet,1315.750,83.10,109338.83
+GP-1001,2026-02,2026-02-15,Western Paper Traders,INV-WPT-260215-04,paper_cardboard,1985.000,42.00,83370.00
+GP-1001,2026-02,2026-02-22,GreenGlass Industries,INV-GGI-260222-09,glass,760.000,28.75,21850.00
+GP-2002,2026-01,2026-01-06,Coastal Pack Films,INV-CPF-260106-05,plastic_hdpe,920.000,91.40,84088.00
+GP-2002,2026-01,2026-01-17,Metro Metal Packaging,INV-MMP-260117-08,steel,650.000,74.25,48262.50
+GP-2002,2026-02,2026-02-08,Coastal Pack Films,INV-CPF-260208-06,plastic_hdpe,975.500,90.80,88575.40
+GP-2002,2026-02,2026-02-18,Northern Fibre Mills,INV-NFM-260218-02,paper_cardboard,1430.000,39.60,56628.00
+GREENPACK-001,2026-04,2026-04-03,Pragati Rigid Packaging,INV-PRP-260403-11,rigid_plastic,11800.000,84.25,994150.00
+GREENPACK-001,2026-04,2026-04-10,FlexiPack Films Pvt Ltd,INV-FPF-260410-04,flexible_plastic,8000.000,91.00,728000.00
+GREENPACK-001,2026-04,2026-04-18,LayerTech Packaging,INV-LTP-260418-06,multilayer_plastic,3300.000,112.50,371250.00

@@ -1,0 +1,7 @@
+Plastic Waste Management Rules
+
+Plastic packaging is commonly tracked by material categories such as rigid plastic, flexible plastic, multilayer plastic, compostable plastic, and recycled plastic. Producers should maintain auditable records for plastic placed on the market and plastic waste managed under EPR obligations.
+
+Monthly EPR reporting should use consistent material names and non-negative quantity values. Records with invalid months, missing producer identifiers, or negative weights should be rejected before compliance analysis.
+
+When data quality issues are found, producers should correct the source records and preserve evidence such as supplier invoices, procurement logs, and reconciliation notes.

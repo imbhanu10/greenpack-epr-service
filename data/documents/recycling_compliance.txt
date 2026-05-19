@@ -1,0 +1,7 @@
+Recycling Compliance
+
+Recycling compliance depends on clear traceability between declared packaging quantities, procurement records, and downstream recycling or processing evidence. A producer should be able to show how declared quantities were derived from operational records.
+
+Material mismatches above the internal review threshold should be investigated before final submission. Teams should confirm whether the mismatch is caused by delayed invoices, incorrect material mapping, duplicate ERP entries, or missing procurement records.
+
+Recommended remediation includes correcting source data, updating the declaration, documenting the reason for variance, and retaining evidence for regulatory or internal audit requests.
