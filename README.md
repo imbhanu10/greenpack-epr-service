@@ -339,6 +339,29 @@ The result is a maintainable backend that demonstrates practical AI integration 
 - Add structured logging and request IDs
 - Add Docker packaging for deployment
 
+##Engineering Notes
+Stack Choices
+
+This project uses:
+
+FastAPI for the backend API because of its strong typing, async support, and clean developer experience.
+Pydantic v2 for strict request/response validation.
+SQLAlchemy with SQLite for lightweight local persistence.
+ChromaDB and sentence-transformers for local RAG retrieval.
+Google Gemini 2.5 Flash-Lite for concise narrative summaries and grounded document QA.
+
+The stack was intentionally chosen to keep the service lightweight, locally runnable, and easy to evaluate without requiring external infrastructure.
+
+AI-Assisted Development Disclosure
+
+AI coding assistants were used during development for scaffolding, refactoring suggestions, debugging, test planning, and documentation support. Final implementation decisions, architecture, reconciliation logic, validation behavior, and production trade-offs were reviewed and controlled manually.
+
+LLMs are intentionally limited to narrative and retrieval tasks only. All compliance calculations and reconciliation logic remain deterministic Python code.
+
+Trade-Off Made
+
+A deliberate trade-off was choosing Gemini API integration instead of running a local LLM through Ollama or self-hosted inference. This reduced setup complexity, improved iteration speed, and kept the project lightweight for evaluation, at the cost of depending on an external API service.
+
 ## Submission Summary
 
 GreenPack EPR Service demonstrates a balanced backend approach for an AI-integrated compliance workflow:
